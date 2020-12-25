@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
+showing a banking ui for now with other logic implementation to come up later 
 
 This project is a starting point for a Flutter application.
 
